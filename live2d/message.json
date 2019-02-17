@@ -1,20 +1,20 @@
 {
   "mouseover": [
     {
-      "selector": ".post-list-item-container .item-title a[href^='http']",
-      "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
+      "selector": "#Header1_HeaderTitle",
+      "text": ["去小文的博客主页看看吧"]
     },
     {
-      "selector": ".navbar-container .navbar-logo",
-      "text": ["回到最开始的地方吧"]
-    },
-    {
-      "selector": "#comment-form #textarea",
+      "selector": "#tbCommentBody",
       "text": ["认真填写哦，垃圾评论是禁止事项"]
     },
     {
-      "selector": "#comment-form #misubmit",
-      "text": ["要提交了吗，首次评论需要审核，请耐心等待~"]
+      "selector": "#btn_comment_submit.comment_btn",
+      "text": ["要提交了吗，博客园提交很快的，稍稍等待一下就好～"]
+    },
+    {
+      "selector": "#post_next_prev",
+      "text": ["去看看博主的那时写的其他随笔吧！"]
     },
     {
       "selector": ".page-navigator .prev",
@@ -25,16 +25,16 @@
       "text": ["去下一页看看吧"]
     },
     {
-      "selector": ".navbar-menu a[href^='https://www.litblc.com/intro.html']",
+      "selector": "#blog_nav_myhome.menu a[href^='https://www.litblc.com/intro.html']",
       "text": ["这里有一些关于我家主人的秘密哦，要不要看看呢"]
     },
     {
-      "selector": "#rewardButton",
-      "text": ["主人最近在吃土呢，很辛苦的样子。给他一些钱钱吧~"]
+      "selector": "#div_digg",
+      "text": ["主人最近在吃土呢，很辛苦的样子。帮他点个赞捧捧场吧~"]
     },
     {
-      "selector": ".github-corner",
-      "text": ["这里是我家主人的GitHub，去看看嘛~"]
+      "selector": "#btn_top",
+      "text": ["这个按钮可以让你直接飞到顶部的哦~"]
     },
     {
       "selector": ".waifu #live2d",
@@ -55,6 +55,10 @@
     {
       "date": "02/14",
       "text": "又是一年<span style=\"color:#0099cc;\">情人节</span>，{year}年找到对象了嘛~"
+    },
+    {
+      "date": "02/18",
+      "text": "今天是<span style=\"color:#0099cc;\">2月18号</span>，好像是小文的一个很重要的日子呢！"
     },
     {
       "date": "03/08",
