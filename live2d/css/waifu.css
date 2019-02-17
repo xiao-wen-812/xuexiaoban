@@ -1,7 +1,7 @@
 .waifu  {
     user-select: none;
     position: fixed;
-    left: 200px;
+    left: 80%;
     bottom: 0;
     z-index: 10;
     font-size: 0;
@@ -23,6 +23,7 @@
     height: 70px;
     margin: auto;
     padding: 5px 10px;
+    left: -50px;
     top: -40px;
     text-align: center;
     border: 1px solid rgba(224, 186, 140, 0.62);
