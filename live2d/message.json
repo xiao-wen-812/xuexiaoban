@@ -13,16 +13,12 @@
       "text": ["请认真填写哦，有意义的评论说明你已经深入思考了，加油！"]
     },
     {
-      "selector": ".postTitle2 a[href^='http']",
-      "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
-    },
-    {
       "selector": ".hljs",
       "text": ["我看见小文调了好久的语法高亮呢！现在是不是很好看呢？"]
     },
     {
       "selector": ".feedbackCon",
-      "text": ["怎么样，他写的评论你赞成吗？要不你也评论一下吧！"]
+      "text": ["怎么样，他们的讨论你赞同吗？要不你也评论一下吧！"]
     },
     {
       "selector": "#btn_comment_submit.comment_btn",
@@ -30,7 +26,7 @@
     },
     {
       "selector": "#post_next_prev",
-      "text": ["我带你去看看博主的那时写的其他随笔吧！"]
+      "text": ["我带你去看看博主在那时写的其他随笔吧！"]
     },
     {
       "selector": "#widget_my_zzk.div_my_zzk",
@@ -42,7 +38,7 @@
     },
     {
       "selector": "#profile_block",
-      "text": ["这里有小文的许多基本信息呢！"]
+      "text": ["这里可有小文的许多基本信息呢！"]
     },
     {
       "selector": ".menu",
