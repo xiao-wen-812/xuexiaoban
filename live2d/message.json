@@ -1,6 +1,10 @@
 {
   "mouseover": [
     {
+      "selector": ".post-list-item-container .item-title a[href^='http']",
+      "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
+    },
+    {
       "selector": "#Header1_HeaderTitle",
       "text": ["要不要我带你去小文的博客主页看看呀！"]
     },
@@ -37,7 +41,7 @@
       "text": ["这里有小文的许多基本信息呢！"]
     },
     {
-      "selector": "#blog_nav_contact.menu",
+      "selector": ".menu",
       "text": ["这里有一些关于我家主人的秘密哦，要不要看看呢"]
     },
     {
