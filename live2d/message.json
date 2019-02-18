@@ -2,11 +2,19 @@
   "mouseover": [
     {
       "selector": "#Header1_HeaderTitle",
-      "text": ["去小文的博客主页看看吧"]
+      "text": ["要不要我带你去小文的博客主页看看呀！"]
     },
     {
       "selector": "#tbCommentBody",
-      "text": ["认真填写哦，垃圾评论是禁止事项"]
+      "text": ["请认真填写哦，有意义的评论说明你已经深入思考了，加油！"]
+    },
+    {
+      "selector": ".hljs",
+      "text": ["我看见小文调了好久的语法高亮呢！现在是不是很好看呢？"]
+    },
+    {
+      "selector": ".feedbackCon",
+      "text": ["怎么样，他写的评论你赞成吗？要不你也评论一下吧！"]
     },
     {
       "selector": "#btn_comment_submit.comment_btn",
@@ -14,18 +22,22 @@
     },
     {
       "selector": "#post_next_prev",
-      "text": ["去看看博主的那时写的其他随笔吧！"]
+      "text": ["我带你去看看博主的那时写的其他随笔吧！"]
     },
     {
-      "selector": ".page-navigator .prev",
-      "text": ["去上一页看看吧"]
+      "selector": "#widget_my_zzk.div_my_zzk",
+      "text": ["想知道主人博文什么的，搜一下就好了！"]
     },
     {
-      "selector": ".page-navigator .next",
-      "text": ["去下一页看看吧"]
+      "selector": "#clock",
+      "text": ["呀！现在几点了来着，要不你帮我读一下吧，谢谢！"]
     },
     {
-      "selector": "#blog_nav_myhome.menu a[href^='https://www.litblc.com/intro.html']",
+      "selector": "#profile_block",
+      "text": ["这里有小文的许多基本信息呢！"]
+    },
+    {
+      "selector": "#blog_nav_contact.menu",
       "text": ["这里有一些关于我家主人的秘密哦，要不要看看呢"]
     },
     {
@@ -44,7 +56,7 @@
   "click": [
     {
       "selector": ".waifu #live2d",
-      "text": ["是…是不小心碰到了吧", "萝莉控是什么呀", "你看到我的小熊了吗", "再摸的话我可要报警了！⌇●﹏●⌇", "110吗，这里有个变态一直在摸我(ó﹏ò｡)"]
+      "text": ["是…是不小心碰到了吧", "你是想看到我蹦蹦跳跳的样子吗？", "不要再缠着我了，快回去搞学习吧！", "再碰的话我可就要报警了！⌇●﹏●⌇", "喂？妖妖零吗，这里有个变态一直缠着我(ó﹏ò｡)"]
     }
   ],
   "seasons": [
