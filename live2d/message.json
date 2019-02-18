@@ -13,6 +13,10 @@
       "text": ["请认真填写哦，有意义的评论说明你已经深入思考了，加油！"]
     },
     {
+      "selector": ".postTitle2 a[href^='http']",
+      "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
+    },
+    {
       "selector": ".hljs",
       "text": ["我看见小文调了好久的语法高亮呢！现在是不是很好看呢？"]
     },
