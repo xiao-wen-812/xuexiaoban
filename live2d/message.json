@@ -1,7 +1,7 @@
 {
   "mouseover": [
     {
-      "selector": ".postTitle2 a[href^='http']",
+      "selector": ".day .postTitle2 a[href^='http']",
       "text": ["要看看小文的 <span style=\"color:#0099cc;\">{text}</span> 么？"]
     },
     {
