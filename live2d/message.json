@@ -1,8 +1,8 @@
 {
   "mouseover": [
     {
-      "selector": ".post-list-item-container .item-title a[href^='http']",
-      "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
+      "selector": ".postTitle2 a[href^='http']",
+      "text": ["要看看小文的 <span style=\"color:#0099cc;\">{text}</span> 么？"]
     },
     {
       "selector": "#Header1_HeaderTitle",
