@@ -10,15 +10,15 @@
     },
     {
       "selector": "#tbCommentBody",
-      "text": ["请认真填写哦，有意义的评论说明你已经深入思考了，加油！"]
+      "text": ["请认真填写哦，发表没意义的评论会被Van被制裁的。"]
     },
     {
       "selector": ".hljs",
-      "text": ["我看见小Van调了好久的语法高亮呢！现在是不是很好看呢？"]
+      "text": ["我看见彩笔Van调了好久的语法高亮呢！现在一定敲难看吧？"]
     },
     {
       "selector": ".feedbackCon",
-      "text": ["怎么样，他们的讨论你赞同吗？要不你也评论一下吧！"]
+      "text": ["怎么样，他们说的你赞同吗？要不你也评论一下吧！"]
     },
     {
       "selector": "#btn_comment_submit.comment_btn",
@@ -30,11 +30,11 @@
     },
     {
       "selector": "#widget_my_zzk.div_my_zzk",
-      "text": ["想知道主人博文什么的，搜一下就好了！"]
+      "text": ["想知道小Van博文什么的，搜一下就好了！"]
     },
     {
       "selector": "#clock",
-      "text": ["呀！现在几点了来着，要不你帮我读一下吧，谢谢！"]
+      "text": ["呀！现在都几点了！小Van怎么又没按时更博！"]
     },
     {
       "selector": "#profile_block",
@@ -42,7 +42,7 @@
     },
     {
       "selector": ".menu",
-      "text": ["这里有一些关于我家主人的秘密哦，要不要看看呢"]
+      "text": ["这里有好多关于我家小Van的秘密哦，要不要看看呢"]
     },
     {
       "selector": "#div_digg",
@@ -50,7 +50,7 @@
     },
     {
       "selector": "#btn_top",
-      "text": ["这个按钮可以让你直接飞到顶部的哦~"]
+      "text": ["坐稳了，这个家伙能带你飞上去的~"]
     },
     {
       "selector": ".waifu #live2d",
