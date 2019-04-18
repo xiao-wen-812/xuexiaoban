@@ -2,11 +2,11 @@
   "mouseover": [
     {
       "selector": ".postTitle a[href^='http']",
-      "text": ["要看看小文的 <span style=\"color:#0099cc;\">{text}</span> 么？"]
+      "text": ["要看看小Van的 <span style=\"color:#0099cc;\">{text}</span> 么？"]
     },
     {
       "selector": "#Header1_HeaderTitle",
-      "text": ["要不要我带你去小文的博客主页看看呀！"]
+      "text": ["要不要我带你去小Van的博客主页看看呀！"]
     },
     {
       "selector": "#tbCommentBody",
@@ -14,7 +14,7 @@
     },
     {
       "selector": ".hljs",
-      "text": ["我看见小文调了好久的语法高亮呢！现在是不是很好看呢？"]
+      "text": ["我看见小Van调了好久的语法高亮呢！现在是不是很好看呢？"]
     },
     {
       "selector": ".feedbackCon",
@@ -38,7 +38,7 @@
     },
     {
       "selector": "#profile_block",
-      "text": ["这里可有小文的许多基本信息呢！"]
+      "text": ["这里可有小Van的许多基本信息呢！"]
     },
     {
       "selector": ".menu",
@@ -74,7 +74,7 @@
     },
     {
       "date": "02/18",
-      "text": "今天是<span style=\"color:#0099cc;\">2月18号</span>，好像是小文的一个很重要的日子呢！"
+      "text": "今天是<span style=\"color:#0099cc;\">2月18号</span>，好像是小Van的一个很重要的日子呢！"
     },
     {
       "date": "03/08",
