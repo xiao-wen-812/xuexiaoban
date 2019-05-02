@@ -14,7 +14,7 @@
     },
     {
       "selector": ".hljs",
-      "text": ["我看见那个傻瓜调了好久的语法高亮呢！现在一定敲难看吧？"]
+      "text": ["我看见那个傻瓜调了好久好久的语法高亮呢！现在一定还是敲难看吧？"]
     },
     {
       "selector": ".feedbackCon",
@@ -89,8 +89,8 @@
       "text": "悄悄告诉你一个秘密~<span style=\"color:#34495e;background-color:#34495e;\">今天是愚人节，不要被骗了哦~</span>"
     },
     {
-      "date": "05/01",
-      "text": "今天是<span style=\"color:#0099cc;\">五一劳动节</span>，计划好假期去哪里了吗~"
+      "date": "05/01-05/03",
+      "text": "这几天是<span style=\"color:#0099cc;\">五一劳动节</span>，计划好假期去哪里了吗？ ----小Van:计划好了！机房！"
     },
     {
       "date": "06/01",
@@ -105,8 +105,8 @@
       "text": "今天是<span style=\"color:#0099cc;\">教师节</span>，在学校要给老师问声好呀~"
     },
     {
-      "date": "10/01",
-      "text": "今天是<span style=\"color:#0099cc;\">国庆节</span>，新中国发展的可真快呢"
+      "date": "10/01-10/07",
+      "text": "又到了<span style=\"color:#0099cc;\">国庆节</span>，新中国发展的可真快呀！"
     },
     {
       "date": "11/05-11/12",
